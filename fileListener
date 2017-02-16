@@ -1,0 +1,9 @@
+package FileOperate;
+
+public interface fileListener{  
+/*******************************
+  This interface just to listene
+  what are the details be return
+ ******************************/
+String details(int keyCode);
+}  
