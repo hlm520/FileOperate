@@ -1,0 +1,14 @@
+<ssrc>
+"文件绝对路径"
+<text>
+"文本显示内容"
+<bool>
+"布尔值判断，以T/F指代"
+<view>
+"加载的视图类型，如LinearLayout,ImageView等"
+<para>
+"整型参数，int"
+<time>
+"线程等待时间"
+<poin>
+"点坐标，格式:10,20;提取后转化为X=10,Y=20"

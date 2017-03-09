@@ -1,0 +1,9 @@
+<bool> T    T$
+<bool> F $
+<bool> false $
+<text> false $
+<text> hlm $
+<bool> false $
+<text> false $
+<text> hlm $
+<view> first$

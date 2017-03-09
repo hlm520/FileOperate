@@ -1,0 +1,17 @@
+﻿<text> hlm is a boy $ 
+<bool> false $
+<text> true $
+<text> hhh $
+<bool> fff $
+<bool> false $
+<text> false $
+<text> hlm $
+<bool> fff $
+<time>200$
+<text> mlh $
+<bool> fff $
+<bool> false $
+<text> true $
+<text>好的好的好$
+<hsjs>很喜欢的呵呵$
+<ssrc>/sdcard/ai编程/pictures/20170122185357.jpg$
